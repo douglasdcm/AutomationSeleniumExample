@@ -1,0 +1,42 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn.lock
+
+# Build directories
+/dist/
+/build/
+/*.log
+*.tgz
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+*.env
+*.venv
+*.tox/
+*.nox/
+*.coverage
+*.hypothesis/
+.coverage.*
+*.pytest_cache/
+*.pytest_debug/
+*.mypy_cache/
+
+# PyCharm
+.idea/
+
+# Jest / testing
+/coverage/
